@@ -29,14 +29,14 @@
 1.新增/修改可請假 假別<br />
 2.新增/修改可請假 年度<br />
 3.修改每個人可請假時數<br />
-4.新增假別/年度，自動給預設150hr可以請<br />
+4.新增假別/年度，自動給預設50hr可以請<br />
 
 # 使用技術
 
 - MVC架構  <br />
 
 - **front-end**<br />
-Javascript / Jquery / ajax / Bootstrap
+Javascript / jQuery / ajax / Bootstrap
 
 - **back-end**  <br />
 Java EE / Oracle DB
