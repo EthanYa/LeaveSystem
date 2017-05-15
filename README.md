@@ -41,3 +41,6 @@ Javascript / jQuery / ajax / Bootstrap
 
 - **back-end**  <br />
 Java EE / Oracle DB
+
+# 介紹影片
+[YouTube連結](https://www.youtube.com/watch?v=8cdB1Gu08io)
